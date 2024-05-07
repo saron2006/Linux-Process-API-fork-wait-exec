@@ -88,6 +88,16 @@ int main()
 ```
 ## OUTPUT:
 ![Screenshot 2024-04-25 093726](https://github.com/SwathidoraiS/Linux-Process-API-fork-wait-exec/assets/144870557/61b4289e-5e55-40e6-a5e1-71a62612c1b7)
+    
+
+
+
+
+
+
+
+
+
 
 
 # RESULT:
